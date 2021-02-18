@@ -1,11 +1,11 @@
 ### [**Föreläsning 1: Introduktion UD1453**](https://www.youtube.com/watch?v=ovaHopt9xEw&feature=youtu.be)
-[Grunderna i 3D-grafik (vertex, edge, polygon, face)](https://youtu.be/ovaHopt9xEw?t=916)
-Maya interface 
-- [Menyer](https://youtu.be/ovaHopt9xEw?t=1296)
-- [Viewports](https://youtu.be/ovaHopt9xEw?t=1631)
-- [Navigera kameran](https://youtu.be/ovaHopt9xEw?t=1746)
-
-[Demo, modellera en tunna](https://youtu.be/ovaHopt9xEw?t=1951)
+#### Genomgång
+- [Grunderna i 3D-grafik (vertex, edge, polygon, face)](https://youtu.be/ovaHopt9xEw?t=916)
+- Maya interface 
+	- [Menyer](https://youtu.be/ovaHopt9xEw?t=1296)
+	- [Viewports](https://youtu.be/ovaHopt9xEw?t=1631)
+	- [Navigera kameran](https://youtu.be/ovaHopt9xEw?t=1746)
+#### [Demo (modellera en tunna)](https://youtu.be/ovaHopt9xEw?t=1951)
 - [Skapa projekt/ spara scen](https://youtu.be/ovaHopt9xEw?t=2063)
 - [Skapa och modifiera primitiv (flytta, dra, skala)](https://youtu.be/ovaHopt9xEw?t=2307)
 - [Dela upp objekt i fler polygoner](https://youtu.be/ovaHopt9xEw?t=2481)
@@ -15,44 +15,46 @@ Maya interface
 - [Skapa lock på tunnan (extrude)](https://youtu.be/ovaHopt9xEw?t=2747)
 - [Skapa metallband (extrude)](https://youtu.be/ovaHopt9xEw?t=2994)
 
-### [**Föreläsning 2: UV-mappning**](https://www.youtube.com/watch?v=w91ZE-enNH0&feature=youtu.be)
-[Material](https://youtu.be/w91ZE-enNH0?t=230)
-[Hypershade](https://youtu.be/w91ZE-enNH0?t=520)
-[UV-mappning](https://youtu.be/w91ZE-enNH0?t=567)
-- [Verktyg](https://youtu.be/w91ZE-enNH0?t=1014)
+----
 
-[Exportera UV-map (UV-snapshot)](https://youtu.be/w91ZE-enNH0?t=1257)
-[Photoshop/Gimp](https://youtu.be/w91ZE-enNH0?t=1338)
-[Demo](https://youtu.be/w91ZE-enNH0?t=1492)
+### [**Föreläsning 2: UV-mappning**](https://www.youtube.com/watch?v=w91ZE-enNH0&feature=youtu.be)
+#### Genomgång
+- [Material](https://youtu.be/w91ZE-enNH0?t=230)
+- [Hypershade](https://youtu.be/w91ZE-enNH0?t=520)
+- [UV-mappning](https://youtu.be/w91ZE-enNH0?t=567)
+	- [Verktyg (sew, cut mm.)](https://youtu.be/w91ZE-enNH0?t=1014)
+- [Exportera UV-map (UV-snapshot)](https://youtu.be/w91ZE-enNH0?t=1257)
+- [Photoshop/Gimp](https://youtu.be/w91ZE-enNH0?t=1338)
+#### [Demo](https://youtu.be/w91ZE-enNH0?t=1492)
 - [Visning kub](https://youtu.be/w91ZE-enNH0?t=1546)
 - [Tunna](https://youtu.be/w91ZE-enNH0?t=2366)
 - [Skapa material och lägg till textur](https://youtu.be/w91ZE-enNH0?t=4099)
 
-[Snabbvariant modellera, uv-mappa och texturera en tunna](https://www.youtube.com/playlist?list=PLxnKxoPsCbkfz8sQfoHYbZwZVvjclSx7c)
+#### Övrigt
+- [Snabbvariant modellera, uv-mappa och texturera en tunna](https://www.youtube.com/playlist?list=PLxnKxoPsCbkfz8sQfoHYbZwZVvjclSx7c)
 
+----
 
 ### [**Föreläsning 3: Ljussättning och rendering**](https://www.youtube.com/watch?v=S78jWaUKAlQ)
-[Rendering](https://youtu.be/S78jWaUKAlQ?t=255)
-- [Maya software render](https://youtu.be/S78jWaUKAlQ?t=335)
-- [Rendering forts.](https://youtu.be/S78jWaUKAlQ?t=900)
-- [Render settings](https://youtu.be/S78jWaUKAlQ?t=1065)
-- [Maya software settings](https://youtu.be/S78jWaUKAlQ?t=1173)
-- [Maya render view](https://youtu.be/S78jWaUKAlQ?t=1246)
-
-[Material blinn](https://youtu.be/S78jWaUKAlQ?t=419)
-- [Color](https://youtu.be/S78jWaUKAlQ?t=509)
-- [Specular color](https://youtu.be/S78jWaUKAlQ?t=581)
-- [Normal camera](https://youtu.be/S78jWaUKAlQ?t=705)
-
-[Ljussättning](https://youtu.be/S78jWaUKAlQ?t=1375)
-- [Grundläggande](https://youtu.be/S78jWaUKAlQ?t=1537)
-- [Key light](https://youtu.be/S78jWaUKAlQ?t=1588)
-- [Fill light](https://youtu.be/S78jWaUKAlQ?t=1634)
-- [Backlight](https://youtu.be/S78jWaUKAlQ?t=1678)
-
-[Ljuskällor i Maya](https://youtu.be/S78jWaUKAlQ?t=2082)
-[Turntable](https://youtu.be/S78jWaUKAlQ?t=2699)
-[Demo](https://youtu.be/S78jWaUKAlQ?t=3089)
+#### Genomgång
+- [Rendering](https://youtu.be/S78jWaUKAlQ?t=255)
+	- [Maya software render](https://youtu.be/S78jWaUKAlQ?t=335)
+	- [Rendering forts.](https://youtu.be/S78jWaUKAlQ?t=900)
+	- [Render settings](https://youtu.be/S78jWaUKAlQ?t=1065)
+	- [Maya software settings](https://youtu.be/S78jWaUKAlQ?t=1173)
+	- [Maya render view](https://youtu.be/S78jWaUKAlQ?t=1246)
+- [Material blinn](https://youtu.be/S78jWaUKAlQ?t=419)
+	- [Color](https://youtu.be/S78jWaUKAlQ?t=509)
+	- [Specular color](https://youtu.be/S78jWaUKAlQ?t=581)
+	- [Normal camera](https://youtu.be/S78jWaUKAlQ?t=705)
+- [Ljussättning](https://youtu.be/S78jWaUKAlQ?t=1375)
+	- [Grundläggande](https://youtu.be/S78jWaUKAlQ?t=1537)
+	- [Key light](https://youtu.be/S78jWaUKAlQ?t=1588)
+	- [Fill light](https://youtu.be/S78jWaUKAlQ?t=1634)
+	- [Backlight](https://youtu.be/S78jWaUKAlQ?t=1678)
+- [Ljuskällor i Maya](https://youtu.be/S78jWaUKAlQ?t=2082)
+- [Turntable](https://youtu.be/S78jWaUKAlQ?t=2699)
+#### [Demo](https://youtu.be/S78jWaUKAlQ?t=3089)
 - [Specular map test](https://youtu.be/S78jWaUKAlQ?t=3115)
 - [Skapa normal map](https://youtu.be/S78jWaUKAlQ?t=3258)
 - [Lägg till normal map](https://youtu.be/S78jWaUKAlQ?t=3509)
@@ -63,20 +65,21 @@ Maya interface
 - [Skapa turntable](https://youtu.be/S78jWaUKAlQ?t=4094)
 - [Batch render](https://youtu.be/S78jWaUKAlQ?t=4162)
 
+----
 
 ### [**Föreläsning 4: karaktärsmodellering topologi**](https://www.youtube.com/watch?v=HOj6WRWaqNQ)
-[Edgeplanning och topologi](https://youtu.be/HOj6WRWaqNQ?t=697)
-- [Edgeplanning](https://youtu.be/HOj6WRWaqNQ?t=790)
-- [Topologi](https://youtu.be/HOj6WRWaqNQ?t=817)
-
-[Edgeflow/gridflow](https://youtu.be/HOj6WRWaqNQ?t=924)
-[Bra vs dålig topologi](https://youtu.be/HOj6WRWaqNQ?t=1251)
-[Gridflow torso](https://youtu.be/HOj6WRWaqNQ?t=1382)
-[Key cuts](https://youtu.be/HOj6WRWaqNQ?t=1663)
-[Limb deformation](https://youtu.be/HOj6WRWaqNQ?t=2380)
-["How to start"-tips](https://youtu.be/HOj6WRWaqNQ?t=2620)
-[Olika sätt att modellera](https://youtu.be/HOj6WRWaqNQ?t=2761)
-[Demo verktyg](https://youtu.be/HOj6WRWaqNQ?t=3389)
+#### Genomgång
+- [Edgeplanning och topologi](https://youtu.be/HOj6WRWaqNQ?t=697)
+	- [Edgeplanning](https://youtu.be/HOj6WRWaqNQ?t=790)
+	- [Topologi](https://youtu.be/HOj6WRWaqNQ?t=817)
+- [Edgeflow/gridflow](https://youtu.be/HOj6WRWaqNQ?t=924)
+- [Bra vs dålig topologi](https://youtu.be/HOj6WRWaqNQ?t=1251)
+- [Gridflow torso](https://youtu.be/HOj6WRWaqNQ?t=1382)
+- [Key cuts](https://youtu.be/HOj6WRWaqNQ?t=1663)
+- [Limb deformation](https://youtu.be/HOj6WRWaqNQ?t=2380)
+- ["How to start"-tips](https://youtu.be/HOj6WRWaqNQ?t=2620)
+- [Olika sätt att modellera](https://youtu.be/HOj6WRWaqNQ?t=2761)
+#### [Demo](https://youtu.be/HOj6WRWaqNQ?t=3389)
 - [Image planes som referencer](https://youtu.be/HOj6WRWaqNQ?t=3465)
 - [Polygon tool](https://youtu.be/HOj6WRWaqNQ?t=3812)
 - [Multi component](https://youtu.be/HOj6WRWaqNQ?t=4139)
@@ -94,9 +97,10 @@ Maya interface
 - [Boolean](https://youtu.be/HOj6WRWaqNQ?t=5763)
 - [Historik](https://youtu.be/HOj6WRWaqNQ?t=5980)
 
+----
 
 ### [**Föreläsning 5: Karaktärsmodellering huvud**](https://www.youtube.com/watch?v=Flf-mD7-49I)
-Genomgång
+#### Genomgång
 - [Öron](https://youtu.be/Flf-mD7-49I?t=358)
 - [Mun och näsa](https://youtu.be/Flf-mD7-49I?t=531)
 - [Hår](https://youtu.be/Flf-mD7-49I?t=702)
@@ -108,7 +112,7 @@ Genomgång
 - [Resmesh och retopologize](https://youtu.be/Flf-mD7-49I?t=1666)
 - [Isolate selected](https://youtu.be/Flf-mD7-49I?t=1826)
 - [Quad draw](https://youtu.be/Flf-mD7-49I?t=1894)
-Demo
+#### Demo
 - [Isolate selected](https://youtu.be/Flf-mD7-49I?t=2107)
 - [Från mer detaljer till färre (skalp, hals)](https://youtu.be/Flf-mD7-49I?t=2149)
 - [Öron](https://youtu.be/Flf-mD7-49I?t=2332)
