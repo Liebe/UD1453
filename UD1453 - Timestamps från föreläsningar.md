@@ -120,7 +120,7 @@
 - [Hår](https://youtu.be/Flf-mD7-49I?t=2546)
 - [Remesh och retopologize](https://youtu.be/Flf-mD7-49I?t=2712) ([forts. circularize](https://youtu.be/Flf-mD7-49I?t=3650))
 - [Pivot](https://youtu.be/Flf-mD7-49I?t=2893)
-- [Snap samt paraormal aktivitet](https://youtu.be/Flf-mD7-49I?t=3218)
+- [Snap samt paranormal aktivitet](https://youtu.be/Flf-mD7-49I?t=3218)
 - [Circularize](https://youtu.be/Flf-mD7-49I?t=3578)
 - [Quad draw](https://youtu.be/Flf-mD7-49I?t=3810)
 - [Tips ansiktsmodellering](https://youtu.be/Flf-mD7-49I?t=4185)
