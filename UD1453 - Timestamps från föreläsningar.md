@@ -109,7 +109,7 @@
 - [Lager i Maya](https://youtu.be/Flf-mD7-49I?t=1143)
 - [Pivot](https://youtu.be/Flf-mD7-49I?t=1348)
 - [Snap](https://youtu.be/Flf-mD7-49I?t=1496)
-- [Resmesh och retopologize](https://youtu.be/Flf-mD7-49I?t=1666)
+- [Remesh och retopologize](https://youtu.be/Flf-mD7-49I?t=1666)
 - [Isolate selected](https://youtu.be/Flf-mD7-49I?t=1826)
 - [Quad draw](https://youtu.be/Flf-mD7-49I?t=1894)
 #### Demo
