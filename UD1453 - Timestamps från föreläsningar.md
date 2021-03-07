@@ -1,3 +1,24 @@
+### [Föreläsning 7: Karaktärsmodellering underkropp](https://www.youtube.com/watch?v=aRrWwfx5Ugc)
+#### Genomgång
+- [Intro](https://youtu.be/aRrWwfx5Ugc?t=64)
+- [Underkropp](https://youtu.be/aRrWwfx5Ugc?t=207)
+	- [Ben](https://youtu.be/aRrWwfx5Ugc?t=254)
+	- [Leder](https://youtu.be/aRrWwfx5Ugc?t=309)
+	- [Fötter](https://youtu.be/aRrWwfx5Ugc?t=445)
+- [Autodesk Maya Bonus Tools 2017-2020](https://youtu.be/aRrWwfx5Ugc?t=751)
+- [Kläder](https://youtu.be/aRrWwfx5Ugc?t=910)
+- [Nästa vecka (UV-mappning, planering)](https://youtu.be/aRrWwfx5Ugc?t=1140)
+#### Demo
+- [Kläder exempel](https://youtu.be/aRrWwfx5Ugc?t=1399)
+- [Bonus tools](https://youtu.be/aRrWwfx5Ugc?t=1606)
+	- [Curve to ribbon mesh](https://youtu.be/aRrWwfx5Ugc?t=1638)
+	- [Connect border edges](https://youtu.be/aRrWwfx5Ugc?t=1894)
+	- [Combine and merge](https://youtu.be/aRrWwfx5Ugc?t=1954)
+	- [Flatten components](https://youtu.be/aRrWwfx5Ugc?t=2064)
+	- [Split around components](https://youtu.be/aRrWwfx5Ugc?t=2161)
+
+----
+
 ### [**Föreläsning 6: Karaktärsmodellering överkropp**](https://www.youtube.com/watch?v=ZXUVhSffc6I)
 #### Genomgång
 - [Intro](https://youtu.be/ZXUVhSffc6I?t=134)
@@ -16,7 +37,6 @@
 - [Connect tool](https://youtu.be/ZXUVhSffc6I?t=1651)
 - [Lattice box](https://youtu.be/ZXUVhSffc6I?t=1706)
 - [Smooth mesh preview](https://youtu.be/ZXUVhSffc6I?t=1802)
-- 
 #### Demo
 - [Offset edge loop tool](https://youtu.be/ZXUVhSffc6I?t=1982)
 - [Transform contraint](https://youtu.be/ZXUVhSffc6I?t=2055)
