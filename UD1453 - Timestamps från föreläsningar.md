@@ -1,3 +1,20 @@
+### [Föreläsning 8: Karaktärsmodellering texturering](https://www.youtube.com/watch?v=gYE-Qf6w-9U)
+#### Genomgång
+- [Intro](https://youtu.be/gYE-Qf6w-9U?t=37)
+- [UV, hur man bör tänka](https://youtu.be/gYE-Qf6w-9U?t=135)
+- [Klassiska sättet att skapa UV-map](https://youtu.be/gYE-Qf6w-9U?t=549)
+- [Andra sättet (Bonus tools, "auto unwrap")](https://youtu.be/gYE-Qf6w-9U?t=1064)
+- [Kort om texturering](https://youtu.be/gYE-Qf6w-9U?t=1348)
+- [Nästa vecka (rendering, Arnold, ShortCut)](https://youtu.be/gYE-Qf6w-9U?t=1421)
+#### Demo
+- [UV-map huvud, UV editor](https://youtu.be/gYE-Qf6w-9U?t=1723)
+- [Auto unwrap UV tool](https://youtu.be/gYE-Qf6w-9U?t=2073)
+- [3D-paint](https://youtu.be/gYE-Qf6w-9U?t=2708)
+- [Mudbox](https://youtu.be/gYE-Qf6w-9U?t=3135)
+- [Auto unwrap revansch)](https://youtu.be/gYE-Qf6w-9U?t=3968)
+
+----
+
 ### [Föreläsning 7: Karaktärsmodellering underkropp](https://www.youtube.com/watch?v=aRrWwfx5Ugc)
 #### Genomgång
 - [Intro](https://youtu.be/aRrWwfx5Ugc?t=64)
