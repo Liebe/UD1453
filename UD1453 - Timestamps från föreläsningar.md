@@ -11,7 +11,7 @@
 - [Auto unwrap UV tool](https://youtu.be/gYE-Qf6w-9U?t=2073)
 - [3D-paint](https://youtu.be/gYE-Qf6w-9U?t=2708)
 - [Mudbox](https://youtu.be/gYE-Qf6w-9U?t=3135)
-- [Auto unwrap revansch)](https://youtu.be/gYE-Qf6w-9U?t=3968)
+- [Auto unwrap revansch](https://youtu.be/gYE-Qf6w-9U?t=3968)
 
 ----
 
