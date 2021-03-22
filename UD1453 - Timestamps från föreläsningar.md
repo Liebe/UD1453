@@ -1,3 +1,24 @@
+### [Föreläsning 9: Karaktärsmodellering rendering](https://www.youtube.com/watch?v=2kPfHhHLMf0)
+#### Genomgång
+- [Intro](https://youtu.be/2kPfHhHLMf0?t=64)
+- [Arnold](https://youtu.be/2kPfHhHLMf0?t=215)
+	- [Ljuskällor](https://youtu.be/2kPfHhHLMf0?t=399)
+		- [Backdropmiljö](https://youtu.be/2kPfHhHLMf0?t=759)
+	- [Renderview](https://youtu.be/2kPfHhHLMf0?t=1185)
+	- [Render settings](https://youtu.be/2kPfHhHLMf0?t=1305)
+	- [Material](https://youtu.be/2kPfHhHLMf0?t=1793)
+	- [Batch render](https://youtu.be/2kPfHhHLMf0?t=1892)
+	- [Render sequence](https://youtu.be/2kPfHhHLMf0?t=1980)
+- [Shortcut](https://youtu.be/2kPfHhHLMf0?t=2218)
+
+#### Demo
+- [Animera objekt (snurra runt)](https://youtu.be/2kPfHhHLMf0?t=2737)
+- [Render layers/render setup](https://youtu.be/2kPfHhHLMf0?t=3187)
+- [AOVs](https://youtu.be/2kPfHhHLMf0?t=3853)
+- [Rendera och manipulera EXR i PS](https://youtu.be/2kPfHhHLMf0?t=4073)
+
+----
+
 ### [Föreläsning 8: Karaktärsmodellering texturering](https://www.youtube.com/watch?v=gYE-Qf6w-9U)
 #### Genomgång
 - [Intro](https://youtu.be/gYE-Qf6w-9U?t=37)
