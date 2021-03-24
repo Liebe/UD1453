@@ -1,3 +1,38 @@
+### [Föreläsning 10: Animation, introduktion](https://www.youtube.com/watch?v=yH04XMb7n08)
+#### Genomgång
+- [Intro](https://youtu.be/yH04XMb7n08?t=52)
+- [Planering modul 3](https://youtu.be/yH04XMb7n08?t=184)
+	- [Studera](https://youtu.be/yH04XMb7n08?t=326)
+	- [12 animationsprinciper](https://youtu.be/yH04XMb7n08?t=441)
+	- [Förberedelser karaktärsriggning](https://youtu.be/yH04XMb7n08?t=583)
+- [Rigg](https://youtu.be/yH04XMb7n08?t=769)
+- [Teori (joints, bones)](https://youtu.be/yH04XMb7n08?t=836)
+	- [Joints](https://youtu.be/yH04XMb7n08?t=912)
+	- [Joint orientation](https://youtu.be/yH04XMb7n08?t=1290)
+- [Quck rig](https://youtu.be/yH04XMb7n08?t=1794)
+	- [Hitta](https://youtu.be/yH04XMb7n08?t=1849)
+	- [1. Välj geometri (geometry)](https://youtu.be/yH04XMb7n08?t=1940)
+	- [2. Skapa markörer (guides)](https://youtu.be/yH04XMb7n08?t=1999)
+	- [3. Anpassa markörer (user adjustments of guides)](https://youtu.be/yH04XMb7n08?t=2066)
+	- [4. Skapa skelett (skeleton and rig generation)](https://youtu.be/yH04XMb7n08?t=2193)
+	- [5. Koppla skelett med mesh (skinning)](https://youtu.be/yH04XMb7n08?t=2321)
+- [Human IK](https://youtu.be/yH04XMb7n08?t=2416)
+- [Weight paint](https://youtu.be/yH04XMb7n08?t=2651)
+	- [Verktyg](https://youtu.be/yH04XMb7n08?t=2803)
+	- [Mirror skin weights](https://youtu.be/yH04XMb7n08?t=3252)
+	- [Tips](https://youtu.be/yH04XMb7n08?t=3319)
+- [Rigga fingrar, tips](https://youtu.be/yH04XMb7n08?t=3457)
+- [Mer om uppgift modul 3](https://youtu.be/yH04XMb7n08?t=3619)
+#### [Demo](https://youtu.be/yH04XMb7n08?t=3857)
+- Quick rig
+	- [Förberedelser](https://youtu.be/yH04XMb7n08?t=3969)
+	- [Verktyg](https://youtu.be/yH04XMb7n08?t=4032)
+- [Weight paint](https://youtu.be/yH04XMb7n08?t=4462)
+- [Animation, keyframes](https://youtu.be/yH04XMb7n08?t=4753)
+- [Referenser](https://youtu.be/yH04XMb7n08?t=5107)
+
+----
+
 ### [Föreläsning 9: Karaktärsmodellering rendering](https://www.youtube.com/watch?v=2kPfHhHLMf0)
 #### Genomgång
 - [Intro](https://youtu.be/2kPfHhHLMf0?t=64)
