@@ -1,3 +1,39 @@
+### [Föreläsning 11: Animation, Human IK och Graph Editor](https://www.youtube.com/watch?v=oag41zAzGRE&t=5s)
+#### Genomgång
+- [Intro](https://youtu.be/oag41zAzGRE?t=150)
+- [Animation](https://youtu.be/oag41zAzGRE?t=184)
+	- [Animation i Maya](https://youtu.be/oag41zAzGRE?t=351)
+	- [Animation controls](https://youtu.be/oag41zAzGRE?t=427)
+	- [Keyframe animation](https://youtu.be/oag41zAzGRE?t=541)
+	- [Set keys](https://youtu.be/oag41zAzGRE?t=629)
+	- [Playback speed](https://youtu.be/oag41zAzGRE?t=699)
+	- [Set a key for one attribute](https://youtu.be/oag41zAzGRE?t=812)
+- [Graph Editor](https://youtu.be/oag41zAzGRE?t=877)
+	- [Interface](https://youtu.be/oag41zAzGRE?t=984)
+	- [Animation curves](https://youtu.be/oag41zAzGRE?t=1062)
+	- [Edit, move, copy, paste keys](https://youtu.be/oag41zAzGRE?t=1151)
+	- [Tangenter](https://youtu.be/oag41zAzGRE?t=1194)
+- [Human IK](https://youtu.be/oag41zAzGRE?t=1331)
+	- [Pivot effector](https://youtu.be/oag41zAzGRE?t=1690)
+	- [Aux effector](https://youtu.be/oag41zAzGRE?t=1869)
+#### Demo
+- [Human IK](https://youtu.be/oag41zAzGRE?t=2141)
+	- [Växla utseende](https://youtu.be/oag41zAzGRE?t=2164)
+	- [Show/hide IK/FK](https://youtu.be/oag41zAzGRE?t=2197)
+	- [Full body, body part, selection](https://youtu.be/oag41zAzGRE?t=2274)
+		- [Keyframes](https://youtu.be/oag41zAzGRE?t=2334)
+		- [Stance pose](https://youtu.be/oag41zAzGRE?t=2474)
+- [Keyframes: markera, stretcha, flytta](https://youtu.be/oag41zAzGRE?t=2507)
+- [Graph Editor](https://youtu.be/oag41zAzGRE?t=2623)
+	- [Studsande boll test](https://youtu.be/oag41zAzGRE?t=3866)
+- Human IK forts.
+	- [Pivot effector](https://youtu.be/oag41zAzGRE?t=3055)
+	- [Aux effector](https://youtu.be/oag41zAzGRE?t=3266)
+	- [Pin](https://youtu.be/oag41zAzGRE?t=3511)
+	- [Floor contact](https://youtu.be/oag41zAzGRE?t=3696)
+
+----
+
 ### [Föreläsning 10: Animation, introduktion](https://www.youtube.com/watch?v=yH04XMb7n08)
 #### Genomgång
 - [Intro](https://youtu.be/yH04XMb7n08?t=52)
