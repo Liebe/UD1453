@@ -1,3 +1,39 @@
+### [Föreläsning 13: Animation, HumanIK, eyes och rotation order](https://www.youtube.com/watch?v=xshrGrrMZkw)
+#### Genomgång
+- [Intro](https://youtu.be/xshrGrrMZkw?t=87)
+- [Ögon och aim constraint](https://youtu.be/xshrGrrMZkw?t=224)
+- [Skapa eget HumanIK från grunden](https://youtu.be/xshrGrrMZkw?t=647)
+- [Rotation order](https://youtu.be/xshrGrrMZkw?t=1212)
+- [Framöver i kursen](https://youtu.be/xshrGrrMZkw?t=1388)
+#### [Demo](https://youtu.be/xshrGrrMZkw?t=1527)
+- [Ögon och aim constraint](https://youtu.be/xshrGrrMZkw?t=1577)
+- [HumanIK från grunden](https://youtu.be/xshrGrrMZkw?t=2315)
+- [Rotation order / gimbal lock](https://youtu.be/xshrGrrMZkw?t=2498)
+
+#### Extra
+- [Ögon och aim constraint kortversion/förtydliganden](https://youtu.be/OyZ5Pbd2CKY)
+
+----
+
+### [Föreläsning 12: Animation, Walk-Cycle och Motion Trails](https://www.youtube.com/watch?v=4HeXeBECKAk)
+#### Genomgång
+- [Intro](https://youtu.be/4HeXeBECKAk?t=32)
+- [Walk cycle överblick](https://youtu.be/4HeXeBECKAk?t=239)
+	- [Contact pose](https://youtu.be/4HeXeBECKAk?t=466) / [Contact pose forts](https://youtu.be/4HeXeBECKAk?t=840)
+	- [Down pose](https://youtu.be/4HeXeBECKAk?t=591)
+	- [Passing pose](https://youtu.be/4HeXeBECKAk?t=702)
+	- [Up pose](https://youtu.be/4HeXeBECKAk?t=775)
+	- [Exempelbild, rörelsetips](https://youtu.be/4HeXeBECKAk?t=887)
+- [Mer att tänka på vid en walk cycle](https://youtu.be/4HeXeBECKAk?t=1002)
+- [Hitta bra referenser](https://youtu.be/4HeXeBECKAk?t=1584)
+#### [Demo](https://youtu.be/4HeXeBECKAk?t=1677)
+- [Motion trails](https://youtu.be/4HeXeBECKAk?t=1706)
+	- [Se motion trail](https://youtu.be/4HeXeBECKAk?t=1743)
+	- [Justera keyframes](https://youtu.be/4HeXeBECKAk?t=1941)
+- [Ghosting](https://youtu.be/4HeXeBECKAk?t=2437)
+
+----
+
 ### [Föreläsning 11: Animation, Human IK och Graph Editor](https://www.youtube.com/watch?v=oag41zAzGRE&t=5s)
 #### Genomgång
 - [Intro](https://youtu.be/oag41zAzGRE?t=150)
