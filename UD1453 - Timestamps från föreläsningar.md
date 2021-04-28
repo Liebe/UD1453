@@ -1,3 +1,44 @@
+### [Föreläsning 15: Blend shapes och dynamics](https://www.youtube.com/watch?v=ePxngbdyHCA)
+#### Genomgång
+- [Intro](https://youtu.be/ePxngbdyHCA?t=145)
+- [Blend shapes](https://youtu.be/ePxngbdyHCA?t=229)
+	- [Duplicera mesh](https://youtu.be/ePxngbdyHCA?t=501)
+	- [Shape editor](https://youtu.be/ePxngbdyHCA?t=589)
+- [Meta human](https://youtu.be/ePxngbdyHCA?t=692)
+- [Fysik](https://youtu.be/ePxngbdyHCA?t=821)
+	- [Dynamic joints](https://youtu.be/ePxngbdyHCA?t=1086)
+	- [Bake keys](https://youtu.be/ePxngbdyHCA?t=1176)
+#### [Demo](https://youtu.be/ePxngbdyHCA?t=1305)
+- [Meta human](https://youtu.be/ePxngbdyHCA?t=1361)
+- [Blend shapes / shape editor](https://youtu.be/ePxngbdyHCA?t=1644)
+	- [Boll blend shapes / deformation exempel med keyframes](https://youtu.be/ePxngbdyHCA?t=1905)
+- [Dynamic joints](https://youtu.be/ePxngbdyHCA?t=2147)
+- Fysik
+	- [Field/solvers](https://youtu.be/ePxngbdyHCA?t=2456)
+	- [nCloth](https://youtu.be/ePxngbdyHCA?t=2598)
+
+----
+
+### [Föreläsning 14: Time editor](https://www.youtube.com/watch?v=l_YtkqlqxXg)
+#### Genomgång
+- [Intro](https://youtu.be/l_YtkqlqxXg?t=68)
+- [Time editor](https://youtu.be/l_YtkqlqxXg?t=160)
+	- [Navigering](https://youtu.be/l_YtkqlqxXg?t=275)
+	- [Time marker och playback längd](https://youtu.be/l_YtkqlqxXg?t=307)
+	- [Cross fade clips och transition clips](https://youtu.be/l_YtkqlqxXg?t=382)
+	- [Razor clips (klippa klipp)](https://youtu.be/l_YtkqlqxXg?t=469)
+	- [Rekommendationer](https://youtu.be/l_YtkqlqxXg?t=603)
+	- [Exempel export/import av klipp (.fbx)](https://youtu.be/l_YtkqlqxXg?t=702)
+- [Auto Keyframe](https://youtu.be/l_YtkqlqxXg?t=1027)
+#### [Demo](https://youtu.be/l_YtkqlqxXg?t=1148)
+- Time Editor
+	- [Exportera FBX](https://youtu.be/l_YtkqlqxXg?t=1167)
+	- [Importera FBX](https://youtu.be/l_YtkqlqxXg?t=1315)
+	- [Cross fade](https://youtu.be/l_YtkqlqxXg?t=1388)
+	- [Importera och animera rullande tunna](https://youtu.be/l_YtkqlqxXg?t=1507)
+
+----
+
 ### [Föreläsning 13: Animation, HumanIK, eyes och rotation order](https://www.youtube.com/watch?v=xshrGrrMZkw)
 #### Genomgång
 - [Intro](https://youtu.be/xshrGrrMZkw?t=87)
